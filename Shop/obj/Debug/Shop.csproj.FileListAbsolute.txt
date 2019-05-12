@@ -1,0 +1,32 @@
+c:\users\home\documents\visual studio 2013\Projects\Shop\Shop\bin\Debug\Shop.exe.config
+c:\users\home\documents\visual studio 2013\Projects\Shop\Shop\bin\Debug\Shop.exe
+c:\users\home\documents\visual studio 2013\Projects\Shop\Shop\bin\Debug\Shop.pdb
+c:\users\home\documents\visual studio 2013\Projects\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2013\Projects\Shop\Shop\obj\Debug\Shop.Main.resources
+c:\users\home\documents\visual studio 2013\Projects\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+c:\users\home\documents\visual studio 2013\Projects\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2013\Projects\Shop\Shop\obj\Debug\Shop.exe
+c:\users\home\documents\visual studio 2013\Projects\Shop\Shop\obj\Debug\Shop.pdb
+c:\users\home\documents\visual studio 2013\Projects\Shop\Shop\bin\Debug\MySql.Data.dll
+c:\users\home\documents\visual studio 2013\Projects\Shop\Shop\obj\Debug\Shop.CustomersForm.resources
+c:\users\home\documents\visual studio 2013\Projects\Shop\Shop\obj\Debug\Shop.CustomerResults.resources
+c:\users\home\documents\visual studio 2013\Projects\Shop\Shop\obj\Debug\Shop.ProductsFrm.resources
+c:\users\home\documents\visual studio 2013\Projects\Shop\Shop\obj\Debug\Shop.ProductResults.resources
+C:\Users\Duke\Desktop\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\Duke\Desktop\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\Duke\Desktop\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\Duke\Desktop\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\Duke\Desktop\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\Duke\Desktop\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\Duke\Desktop\Shop\Shop\obj\Debug\Shop.CustomerResults.resources
+C:\Users\Duke\Desktop\Shop\Shop\obj\Debug\Shop.CustomersForm.resources
+C:\Users\Duke\Desktop\Shop\Shop\obj\Debug\Shop.Main.resources
+C:\Users\Duke\Desktop\Shop\Shop\obj\Debug\Shop.ProductResults.resources
+C:\Users\Duke\Desktop\Shop\Shop\obj\Debug\Shop.ProductsFrm.resources
+C:\Users\Duke\Desktop\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\Duke\Desktop\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.Cache
+C:\Users\Duke\Desktop\Shop\Shop\obj\Debug\Shop.OrderForm.resources
+C:\Users\Duke\Desktop\Shop\Shop\obj\Debug\Shop.Login.resources
+C:\Users\Duke\Desktop\Shop\Shop\obj\Debug\Shop.SearchOrderFrm.resources
+C:\Users\Duke\Desktop\Shop\Shop\obj\Debug\Shop.SearchResultsForm.resources
+C:\Users\Duke\Desktop\Shop\Shop\obj\Debug\Shop.ViewOrder.resources
